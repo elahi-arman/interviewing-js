@@ -1,0 +1,27 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Programming Practice problems",
+  "main": "index.js",
+  "scripts": {
+    "perf": "node dist/cmd/perf",
+    "test": "jest --watch",
+    "watch": "rm -rf dist && tsc --watch --project tsconfig.json",
+    "build": "rm -rf dist && tsc --project tsconfig.json"
+  },
+  "keywords": [],
+  "author": "Arman Elahi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/asciichart": "^1.5.6",
+    "@tsconfig/node16": "^1.0.3",
+    "@types/jest": "^29.5.1",
+    "@types/node": "^18.16.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "asciichart": "^1.5.25"
+  }
+}
