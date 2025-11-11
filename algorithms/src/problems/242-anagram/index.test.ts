@@ -1,6 +1,6 @@
 import { isAnagram } from ".";
 
-describe("242 - invert binary tree", () => {
+describe("242 - anagram", () => {
   const testCases = [
     {
       input: ["anagram", "nagaram"],

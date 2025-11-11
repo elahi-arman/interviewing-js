@@ -1,4 +1,4 @@
-import { NumberTreeNode, TreeNode } from "../../helpers/tree-node";
+import { NumberTreeNode, TreeNode } from "../../helpers/binary-tree";
 import { TestCases } from "../../../types";
 import { lca } from ".";
 

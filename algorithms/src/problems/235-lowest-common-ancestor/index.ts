@@ -1,4 +1,4 @@
-import { NumberTreeNode } from "../../helpers/tree-node";
+import { NumberTreeNode } from "../../helpers/binary-tree";
 
 export function lca(
   root: NumberTreeNode | null,

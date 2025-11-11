@@ -1,4 +1,4 @@
-import { TreeNode } from "../../helpers/tree-node";
+import { TreeNode } from "../../helpers/binary-tree";
 
 const tree = TreeNode.buildCompleteBinaryTreeFromArray([
   6,
