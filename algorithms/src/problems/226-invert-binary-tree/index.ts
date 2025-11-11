@@ -1,4 +1,4 @@
-import { TreeNode } from "../../helpers/tree-node";
+import { TreeNode } from "../../helpers/binary-tree";
 
 export function invertTree(
   root: TreeNode<number> | null

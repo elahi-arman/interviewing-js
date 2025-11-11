@@ -1,4 +1,4 @@
-import { TreeNode } from "../../helpers/tree-node";
+import { TreeNode } from "../../helpers/binary-tree";
 import { invertTree } from ".";
 
 describe("226 - invert binary tree", () => {
